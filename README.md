@@ -14,5 +14,4 @@
 4 input_nilai.py berisi modul untuk meminta user menginputkan data<br>
 
 <strong><p align="center">Screenshot</p></strong><br>
-
 ![](ss/project6.jpg)
