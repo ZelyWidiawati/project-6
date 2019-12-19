@@ -1,1 +1,1 @@
-!()[ss/project6.jpg]
+![](ss/project6.jpg)
