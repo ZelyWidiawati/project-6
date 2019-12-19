@@ -1,3 +1,4 @@
+# <p align="center">.:Package & Module:.</p>
 1.main.py berisi program utama untuk memanggil semua module yang ada<br>
 
 2.daftar_nilai.py berisi modul untuk<br>
@@ -12,5 +13,6 @@
 
 4 input_nilai.py berisi modul untuk meminta user menginputkan data<br>
 
+<strong><p align="center">Screenshot</p></strong><br>
 
 ![](ss/project6.jpg)
